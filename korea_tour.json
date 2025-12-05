@@ -1,0 +1,151 @@
+[
+  {
+    "name": "경복궁",    "address": "서울 종로구 사직로 161",
+    "description": "조선 왕조 제일의 법궁으로, 서울의 중심에 위치한 가장 웅장하고 아름다운 궁궐입니다. 한복을 입고 방문하면 색다른 경험을 할 수 있습니다.",
+    "imageUrl": "https://conlab.visitkorea.or.kr/api/depot/public/depot-flow/query/download-image/47a410c2-f724-4e6f-9044-d569e008f426/it14"
+  },
+  {
+    "name": "N서울타워",
+    "address": "서울 용산구 남산공원길 105",
+    "description": "남산 정상에 위치한 서울의 상징적인 랜드마크입니다. 타워에 올라가면 서울의 전경을 360도로 감상할 수 있으며, 야경이 특히 아름답습니다.",
+    "imageUrl": "https://conlab.visitkorea.or.kr/api/depot/public/depot-flow/query/download-image/e68b9146-7bd0-4394-9130-b9c17ee20f41/it14"
+  },
+  {
+    "name": "해운대 해수욕장",
+    "address": "부산 해운대구 해운대해변로 264",
+    "description": "대한민국을 대표하는 최고의 해수욕장 중 하나입니다. 넓은 백사장과 아름다운 해안선, 그리고 주변의 현대적인 도시 경관이 어우러져 있습니다.",
+    "imageUrl": "https://conlab.visitkorea.or.kr/api/depot/public/depot-flow/query/download-image/5c3c6f0a-0f45-4e5e-b7e2-a33e9e361dc6/it14"
+  },
+  {
+    "name": "감천문화마을",
+    "address": "부산 사하구 감내2로 203",
+    "description": "산비탈을 따라 자리 잡은 계단식 마을로, 알록달록한 집들과 골목마다 그려진 벽화가 인상적인 곳입니다. '한국의 산토리니'라고도 불립니다.",
+    "imageUrl": "https://conlab.visitkorea.or.kr/api/depot/public/depot-flow/query/download-image/ddbd2b4a-c69f-4fdc-97aa-97ca0495ce2d/it14"
+  },
+  {
+    "name": "성산일출봉",
+    "address": "제주 서귀포시 성산읍 성산리 1",
+    "description": "제주도를 대표하는 유네스코 세계자연유산입니다. 정상에서 바라보는 일출과 주변의 아름다운 해안 경관이 장관을 이룹니다.",
+    "imageUrl": "https://conlab.visitkorea.or.kr/api/depot/public/depot-flow/query/download-image/813ba51d-647e-46dd-b65a-0bbd557642ad/it14"
+  },
+  {
+    "name": "한라산 국립공원",
+    "address": "제주 제주시 1100로 2070-61",
+    "description": "남한에서 가장 높은 산으로, 사계절 내내 다채로운 자연의 모습을 보여주는 생태계의 보고입니다. 다양한 등반 코스가 있습니다.",
+    "imageUrl": "https://conlab.visitkorea.or.kr/api/depot/public/depot-flow/query/download-image/d535c2fc-7177-460a-b1bb-f9281308de0f/it14"
+  },
+  {
+    "name": "전주 한옥마을",
+    "address": "전북 전주시 완산구 교동",
+    "description": "700여 채의 한옥이 밀집된 국내 최대 규모의 전통 한옥촌입니다. 한복 체험, 전통 공예, 그리고 유명한 길거리 음식을 즐길 수 있습니다.",
+    "imageUrl": "https://conlab.visitkorea.or.kr/api/depot/public/depot-flow/query/download-image/3f94dae5-9aae-444d-8f70-074c966befd5/it14"
+  },
+  {
+    "name": "경주 불국사",
+    "address": "경북 경주시 불국로 385",
+    "description": "신라 불교 예술의 정수를 보여주는 유네스코 세계문화유산입니다. 다보탑, 석가탑 등 수많은 국보를 품고 있습니다.",
+    "imageUrl": "https://conlab.visitkorea.or.kr/api/depot/public/depot-flow/query/download-image/bbceb1ae-5eaf-4315-b074-27213e75b915/it14"
+  },
+  {
+    "name": "경주 첨성대",
+    "address": "경북 경주시 인왕동 839-1",
+    "description": "신라 천년의 역사가 살아 숨 쉬는 도시 경주의 상징입니다. 동양에서 가장 오래된 천문대로 그 과학적 가치가 매우 높습니다.",
+    "imageUrl": "https://conlab.visitkorea.or.kr/api/depot/public/depot-flow/query/download-image/4a8d4226-5810-4e08-9dcb-b7068ae0c06f/it14"
+  },
+  {
+    "name": "수원 화성",
+    "address": "경기 수원시 장안구 영화동 320-2",
+    "description": "조선 후기 정조대왕이 축조한 성곽으로, 과학적이고 실용적인 구조를 자랑하는 유네스코 세계문화유산입니다. 성곽길을 따라 걷는 산책이 인상적입니다.",
+    "imageUrl": "https://conlab.visitkorea.or.kr/api/depot/public/depot-flow/query/download-image/fbc61f30-ec6d-40d1-a68f-8ce230d28084/it14"
+  },
+  {
+    "name": "설악산 국립공원",
+    "address": "강원 속초시 설악산로 833",
+    "description": "기암괴석과 울창한 숲, 맑은 계곡이 어우러진 대한민국 명산 중 하나입니다. 사계절 모두 아름다우며 특히 가을 단풍이 절경을 이룹니다.",
+    "imageUrl": "https://conlab.visitkorea.or.kr/api/depot/public/depot-flow/query/download-image/a9993a8f-7229-4170-9a55-49e1e1ac5f58/it14"
+  },
+  {
+    "name": "남이섬",
+    "address": "강원 춘천시 남산면 남이섬길 1",
+    "description": "북한강 위에 자리한 아름다운 섬으로, 드라마 '겨울연가' 촬영지로 유명해졌습니다. 곧게 뻗은 메타세쿼이아길이 섬의 상징입니다.",
+    "imageUrl": "https://conlab.visitkorea.or.kr/api/depot/public/depot-flow/query/download-image/163e8a3f-d0bf-48a7-a8db-75be63d6b3a2/it14"
+  },
+  {
+    "name": "안동 하회마을",
+    "address": "경북 안동시 풍천면 하회종가길 40",
+    "description": "풍산 류씨가 600여 년간 살아온 동성마을로, 전통적인 유교 문화를 잘 보존하고 있는 유네스코 세계문화유산입니다.",
+    "imageUrl": "https://conlab.visitkorea.or.kr/api/depot/public/depot-flow/query/download-image/1c621626-3842-4623-aa17-79c1b7b98cec/it14"
+  },
+  {
+    "name": "순천만 국가정원",
+    "address": "전남 순천시 국가정원1호길 47",
+    "description": "세계 각국의 정원을 모아놓은 아름다운 국가정원과, 드넓은 갯벌과 갈대밭이 장관을 이루는 순천만습지가 함께 있습니다. 생태 관광의 보고입니다.",
+    "imageUrl": "https://conlab.visitkorea.or.kr/api/depot/public/depot-flow/query/download-image/2d23ad58-0b90-48c5-a1f2-10b9e6d1a1cc/it14"
+  },
+  {
+    "name": "보성 녹차밭",
+    "address": "전남 보성군 보성읍 녹차로 763-67",
+    "description": "산비탈을 따라 끝없이 펼쳐진 녹색의 녹차밭 풍경이 그림처럼 아름다운 곳입니다. 각종 CF와 영화 촬영지로도 유명합니다.",
+    "imageUrl": "https://conlab.visitkorea.or.kr/api/depot/public/depot-flow/query/download-image/2f587225-2558-4e55-bf47-72cf7454cc4a/it14"
+  },
+  {
+    "name": "우도",
+    "address": "제주 제주시 우도면",
+    "description": "소가 누워있는 형상을 닮았다 하여 이름 붙여진 섬 속의 섬입니다. 에메랄드빛 바다와 하얀 산호사 해변이 아름다워 많은 사랑을 받습니다.",
+    "imageUrl": "https://conlab.visitkorea.or.kr/api/depot/public/depot-flow/query/download-image/c5dd6255-8649-42ff-b9c2-81ea3a8ec117/it14"
+  },
+  {
+    "name": "롯데월드타워",
+    "address": "서울 송파구 올림픽로 300",
+    "description": "국내 최고 높이의 초고층 빌딩입니다. 전망대 '서울스카이'에 올라가면 서울의 전경을 한눈에 담을 수 있습니다.",
+    "imageUrl": "https://conlab.visitkorea.or.kr/api/depot/public/depot-flow/query/download-image/42387ba2-39e2-4a86-981a-1e5cd34f2c0b/it14"
+  },
+  {
+    "name": "담양 죽녹원",
+    "address": "전남 담양군 담양읍 죽녹원로 119",
+    "description": "울창한 대나무 숲이 조성된 삼림욕장입니다. 빽빽한 대나무 숲 사이로 난 산책길을 걸으며 일상의 스트레스를 해소할 수 있습니다.",
+    "imageUrl": "https://conlab.visitkorea.or.kr/api/depot/public/depot-flow/query/download-image/db830e36-a20a-4b33-b558-40f341333160/it14"
+  },
+  {
+    "name": "대관령 양떼목장",
+    "address": "강원 평창군 대관령면 대관령마루길 483-32",
+    "description": "해발 850m에 위치한 넓은 초원에서 한가롭게 풀을 뜯는 양떼를 만날 수 있는 곳입니다. 이국적인 풍경 속에서 자연과 교감할 수 있습니다.",
+    "imageUrl": "https://conlab.visitkorea.or.kr/api/depot/public/depot-flow/query/download-image/f174eb35-b8ad-474d-9ffe-c3336ec6a22e/it14"
+  },
+  {
+    "name": "단양 만천하스카이워크",
+    "address": "충북 단양군 적성면 애곡리 94",
+    "description": "남한강 절벽 위에서 강물을 내려다볼 수 있는 아찔한 전망대입니다. 짚와이어, 알파인코스터 등 다양한 액티비티를 함께 즐길 수 있습니다.",
+    "imageUrl": "https://conlab.visitkorea.or.kr/api/depot/public/depot-flow/query/download-image/9eebeae9-a17c-4469-951d-83c1c74cb334/it14"
+  },
+  {
+    "name": "해인사",
+    "address": "경남 합천군 가야면 해인사길 122",
+    "description": "유네스코 세계기록유산인 팔만대장경을 보관하고 있는 법보사찰입니다. 가야산의 수려한 자연 경관 속에 자리 잡고 있습니다.",
+    "imageUrl": "https://conlab.visitkorea.or.kr/api/depot/public/depot-flow/query/download-image/09c0e282-2301-4fe9-b5a7-7086e4130bc9/it14"
+  },
+  {
+    "name": "공주 공산성",
+    "address": "충남 공주시 웅진로 280",
+    "description": "백제의 수도였던 웅진(공주)을 지키기 위해 지어진 왕성입니다. 금강을 따라 이어진 성곽길에서 백제의 역사를 느낄 수 있습니다.",
+    "imageUrl": "https://conlab.visitkorea.or.kr/api/depot/public/depot-flow/query/download-image/9018781c-8a13-4241-ae0b-f12345d7efdb/it14"
+  },
+  {
+    "name": "속초 중앙시장",
+    "address": "강원 속초시 중앙로147번길 16",
+    "description": "동해의 신선한 해산물과 닭강정, 아바이순대 등 속초의 명물 먹거리를 맛볼 수 있는 활기찬 전통시장입니다.",
+    "imageUrl": "https://conlab.visitkorea.or.kr/api/depot/public/depot-flow/query/download-image/3bd5ff5a-1d2f-4cb8-b1ef-13aea9dbff7f/it14"
+  },
+  {
+    "name": "여수 해상케이블카",
+    "address": "전남 여수시 돌산읍 돌산로 3600-1",
+    "description": "바다 위를 가로질러 돌산과 자산공원을 잇는 케이블카입니다. 여수의 아름다운 항구와 밤바다 풍경을 공중에서 감상할 수 있습니다.",
+    "imageUrl": "https://conlab.visitkorea.or.kr/api/depot/public/depot-flow/query/download-image/eaf07583-d603-4bd6-b457-dccb7edf1b3c/it14"
+  },
+  {
+    "name": "독립기념관",
+    "address": "충남 천안시 동남구 목천읍 독립기념관로 1",
+    "description": "우리 민족의 국난 극복사와 국가 발전사에 관한 자료를 모아 전시한 기념관입니다. 겨레의 탑은 독립기념관의 상징적인 조형물입니다.",
+    "imageUrl": "https://conlab.visitkorea.or.kr/api/depot/public/depot-flow/query/download-image/f07d6230-7b69-4f46-86b8-86dc29c60fef/it14"
+  }
+]
